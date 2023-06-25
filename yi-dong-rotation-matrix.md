@@ -6,7 +6,7 @@
 
 <figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
-## rotation matrix
+## rotation matrix 旋转矩阵
 
 <figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
