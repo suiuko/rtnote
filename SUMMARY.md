@@ -1,9 +1,10 @@
 # Table of contents
 
-* [机器人力学](README.md)
-* [移动 rotation matrix](yi-dong-rotation-matrix.md)
-* [刚体运动状态描述](https://www.suiu.cc/archives/dynamics1)
-
 ## 🐸 S1
 
-* [mechanics 力学](s1/mechanics-li-xue.md)
+* [力学mechanics](README.md)
+  * [台大机器人力学](s1/li-xue-mechanics/readme/README.md)
+    * [移动 rotation matrix](s1/li-xue-mechanics/readme/yi-dong-rotation-matrix/README.md)
+      * [刚体运动状态描述](https://www.suiu.cc/archives/dynamics1)
+* [嵌入式embedded systems](s1/qian-ru-shi-embedded-systems.md)
+* [工程师编程 p for engineer](s1/gong-cheng-shi-bian-cheng-pfor-engineer.md)

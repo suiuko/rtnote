@@ -1,2 +1,0 @@
-# mechanics 力学
-
